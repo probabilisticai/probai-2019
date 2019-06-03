@@ -7,4 +7,4 @@
 	* Start the google collab notebook with the following line to install the necessary packages `!pip install -q --upgrade pyro-ppl torch`
 
 
-We will keep updating this document we new information and links. 
+We will keep updating this document with new information and links. 
