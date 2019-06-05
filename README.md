@@ -5,6 +5,7 @@
 
 * Day 1 - [Introduction to Probabilistic Modelling](https://github.com/probabilisticai/probai-2019/tree/master/day1/introduction_to_probabilistic_modelling.pdf)
 * Day 2 - [Variational Inference and Optimization 1](https://github.com/probabilisticai/probai-2019/tree/master/day2/variational_inference_and_optimization_1.pdf)
+* Day 3 - [Variational Inference and Optimization 2](https://github.com/probabilisticai/probai-2019/tree/master/day3/Klami_ProbAISchool_2.pdf)
 
 ## Tutorials
 
