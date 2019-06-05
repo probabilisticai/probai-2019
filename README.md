@@ -21,9 +21,13 @@ Start the Google Colab notebook with the following line to install the necessary
 * Day 1 - [`students_Bayesian_regression.ipynb`](https://colab.research.google.com/drive/1CkFBxzP9Y43q6uxI0cLGiRsJ8vuUBfYD)
 * Day 2 - [`students_simple_model.ipynb`](https://colab.research.google.com/github/PGM-Lab/probabilisticAI_tutorials/blob/master/Day2/students_simple_model.ipynb#scrollTo=BSb_JL4qXAd-)
 * Day 2 - [`students_lin_reg.ipynb`](https://colab.research.google.com/github/PGM-Lab/probabilisticAI_tutorials/blob/master/Day2/students_lin_reg.ipynb)
-* Day 3 - [`student_BBVI.ipynb`](https://colab.research.google.com/drive/1RmARkmGOf4S9i1Q3B_6-xShv5Wb0fSnL)
-* Day 3 - [`VAE.ipynb`](https://colab.research.google.com/drive/1vp-CfB9jRxWGBrz6TDiFt4Bw9vuei5qA)
+* Day 3 - [`student_simple_model.ipynb`](https://colab.research.google.com/drive/16O1ifMkGtVMd8HCnyST2nw61CDO7Olaa)
+* Day 3 - [`student_BBVI.ipynb`](https://colab.research.google.com/github/PGM-Lab/probabilisticAI_tutorials/blob/master/Day3/student_BBVI.ipynb)
+* Day 3 - [`Bayesian_linear_regression.ipynb`](https://colab.research.google.com/drive/1fgTv9yJ0TC1x-2mr0MUega6mx9JUzZbL)
+* Day 3 - [`VAE.ipynb`](https://colab.research.google.com/drive/1YQRcOLreMt4DXayq-V8qF7q676aVGVRT)
+* Day 3 - [`FA.ipynb`](https://colab.research.google.com/drive/1dNjmZJYUjPLT40heW0TCU0A3cl96iUYm)
 
 ---
 
 We will keep updating this document.
+
