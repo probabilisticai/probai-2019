@@ -27,6 +27,7 @@ Start the Google Colab notebook with the following line to install the necessary
 * Day 3 - [`Bayesian_linear_regression.ipynb`](https://colab.research.google.com/drive/1fgTv9yJ0TC1x-2mr0MUega6mx9JUzZbL)
 * Day 3 - [`VAE.ipynb`](https://colab.research.google.com/drive/1YQRcOLreMt4DXayq-V8qF7q676aVGVRT)
 * Day 3 - [`FA.ipynb`](https://colab.research.google.com/drive/1dNjmZJYUjPLT40heW0TCU0A3cl96iUYm)
+* Day 4 - [Imputations with MIWAE](https://github.com/probabilisticai/probai-2019/blob/master/day4/tutorial_dlvm/MIWAE_Pytorch_exercises_demo_ProbAI.ipynb)
 
 ---
 
