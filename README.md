@@ -30,7 +30,11 @@ Start the Google Colab notebook with the following line to install the necessary
 * Day 3 - [`FA.ipynb`](https://colab.research.google.com/drive/1dNjmZJYUjPLT40heW0TCU0A3cl96iUYm)
 * Day 4 - [Imputations with MIWAE](https://github.com/probabilisticai/probai-2019/blob/master/day4/tutorial_dlvm/MIWAE_Pytorch_exercises_demo_ProbAI.ipynb)
 
+## Talks
+
+* Day 4:
+    * [Combining Model and Parameter Uncertainty in BNNs](https://github.com/probabilisticai/probai-2019/blob/master/day4/combining_model_and_parameter_uncertainty_in_bnns.pdf) by Aliaksandr Hubin
+
 ---
 
 We will keep updating this document.
-
