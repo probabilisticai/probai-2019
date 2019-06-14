@@ -32,6 +32,8 @@ Start the Google Colab notebook with the following line to install the necessary
 
 ## Talks
 
+* Day 2:
+    * [Evolving Deep Neural Networks](https://github.com/probabilisticai/probai-2019/blob/master/day2/evolving_deep_neural_networks.pdf) by Keith L. Downing
 * Day 4:
     * [Combining Model and Parameter Uncertainty in BNNs](https://github.com/probabilisticai/probai-2019/blob/master/day4/combining_model_and_parameter_uncertainty_in_bnns.pdf) by Aliaksandr Hubin
 
