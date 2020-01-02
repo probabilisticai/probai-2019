@@ -11,7 +11,11 @@
 
 ## Tutorials
 
-Repo with tutorials for the first three days: [https://github.com/PGM-Lab/probabilisticAI_tutorials](https://github.com/PGM-Lab/probabilisticAI_tutorials).
+* Day 1 - [Probabilistic Programming](https://github.com/probabilisticai/probai-2019/tree/master/day1/day1_tutorial)
+* Day 2 - [Variational Inference and Probabilistic Programming 1](https://github.com/probabilisticai/probai-2019/tree/master/day2/day2_tutorial)
+* Day 3 - [Variational Inference and Probabilistic Programming 2](https://github.com/probabilisticai/probai-2019/tree/master/day3/day3_tutorial)
+* Day 4 - [Deep Latent Variable Models for Imputation of Incomplete Data Sets (Imputations with MIWAE)](https://github.com/probabilisticai/probai-2019/tree/master/day4/tutorial_dlvm)
+* Day 5 - [Bayesian Sparsification of Neural Networks](https://github.com/probabilisticai/probai-2019/tree/master/day5/Bayesian_sparsification_tutorial)
 
 ###  Google Colab
 
@@ -28,7 +32,6 @@ Start the Google Colab notebook with the following line to install the necessary
 * Day 3 - [`Bayesian_linear_regression.ipynb`](https://colab.research.google.com/drive/1fgTv9yJ0TC1x-2mr0MUega6mx9JUzZbL)
 * Day 3 - [`VAE.ipynb`](https://colab.research.google.com/drive/1YQRcOLreMt4DXayq-V8qF7q676aVGVRT)
 * Day 3 - [`FA.ipynb`](https://colab.research.google.com/drive/1dNjmZJYUjPLT40heW0TCU0A3cl96iUYm)
-* Day 4 - [Imputations with MIWAE](https://github.com/probabilisticai/probai-2019/blob/master/day4/tutorial_dlvm/MIWAE_Pytorch_exercises_demo_ProbAI.ipynb)
 
 ## Talks
 
