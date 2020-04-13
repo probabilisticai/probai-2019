@@ -1,6 +1,8 @@
 
 # ProbAI 2019
 
+The following lectures and tutorials have been recorded and can be found on our [YouTube](https://www.youtube.com/channel/UCcMwNzhpePJE3xzOP_3pqsw) channel.
+
 ## Lectures
 
 * Day 1 - [Introduction to Probabilistic Modelling](https://github.com/probabilisticai/probai-2019/tree/master/day1/introduction_to_probabilistic_modelling.pdf)
@@ -42,7 +44,3 @@ Start the Google Colab notebook with the following line to install the necessary
     * [Bayesian Methods for Rank and Preference Data: From Recommender Systems to Cancer Genomics](https://github.com/probabilisticai/probai-2019/blob/master/day3/bayesian_methods_for_rank_and_preference_data.pdf) by Valeria Vitelli
 * Day 4:
     * [Combining Model and Parameter Uncertainty in BNNs](https://github.com/probabilisticai/probai-2019/blob/master/day4/combining_model_and_parameter_uncertainty_in_bnns.pdf) by Aliaksandr Hubin
-
----
-
-We will keep updating this document.
